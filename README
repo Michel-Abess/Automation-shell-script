@@ -1,0 +1,11 @@
+In this work we create a scheduled backup script which runs every day and automatically backs up any files that have been updated in the past 24 hours.
+
+  We use shell script, text editor such as nano and vim and linux command mostly.
+
+
+
+
+
+
+
+
