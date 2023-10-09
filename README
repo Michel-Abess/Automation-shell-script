@@ -1,6 +1,6 @@
-In this work we create a scheduled backup script which runs every day and automatically backs up any files that have been updated in the past 24 hours.
+For this job, we create a scheduled backup script that runs every day and automatically backs up all files that have been updated in the last 24 hours.
 
-  We use shell script, text editor such as nano and vim and linux command mostly.
+ We mainly use shell scripts, text editors such as nano and vim and linux commands.
 
 
 
